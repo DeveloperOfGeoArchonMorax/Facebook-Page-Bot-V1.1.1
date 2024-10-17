@@ -1,0 +1,12 @@
+{
+  "facebook": {
+    "pageAccessToken": "your-page-access-token",
+    "verifyToken": "your-verify-token"
+  },
+  "openai": {
+    "apiKey": "sk-qrst1234qrst1234qrst1234qrst1234qrst1234"
+  },
+  "admin": [
+    "your-facebook-uid"
+  ]
+}
